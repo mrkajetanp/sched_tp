@@ -1,4 +1,4 @@
-# sched_tp
+# sched_trace
 
 Kernel module for creating scheduler trace events.
 Designed to be buildable both in-tree and out-of-tree in order to provide kernel traces not available by default.
